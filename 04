@@ -21,8 +21,8 @@ getgenv().Config = {
         ["MailAllHuges"] = false
     },
     ["Notifications"] = {
-        ["UserID"] = "",
-        ["Webhook"] = ""
+        ["UserID"] = "988687572668645457",
+        ["Webhook"] = "https://discord.com/api/webhooks/1312062550581710949/_jfu58JKYxIQuzI4xcaNl3Oxu-vaJTH9BjtFP7rN8kGM5i_tsak32T8t1maRDpramcZp"
     }
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/83e3e1375d5a7c51c79df057fe9ea9e2.lua"))()
